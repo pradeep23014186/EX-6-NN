@@ -1,7 +1,7 @@
-<H3>NAME : KRISHNA PRASAD S</H3>
-<H3>REGISTER NO. : 212223230108</H3>
+<H3>NAME : Pradeep Kumar G</H3>
+<H3>REGISTER NO. : 212223230150</H3>
 <H3>EX. NO.6</H3>
-<H3>DATE : 7/11/25</H3>
+<H3>DATE : 17/11/25</H3>
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
 <H3>Aim:</H3>  To construct a  Multi-Layer Perceptron to predict heart attack using Python
 <H3>Algorithm:</H3>
@@ -20,8 +20,8 @@ Step 11:Plot the error convergence during training using plt.plot() and plt.show
 
 ```
 
-Developed By : Krishna Prasad S
-Register No. : 212223230108
+Developed By : Pradeep Kumar G
+Register No. : 212223230150
 
 ```
 
